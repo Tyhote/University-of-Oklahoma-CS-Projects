@@ -1,0 +1,6 @@
+5
+Line 1 has a period.
+Line 2, has a comma and a period.
+Line 3: colon and a period.
+Line 4 has a question mark?
+Line 5 has an exclamation point!
